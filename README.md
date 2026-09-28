@@ -36,10 +36,10 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[CVA6-Lab](https://github.com/Amin-Maky/CVA6-Lab)** | Benchmarking workloads on bare-metal RISC-V via Verilator. Analyzing the architectural trade-offs of 32/64-bit and dual-issue execution on structural hazards. | `SystemVerilog` `Verilator` `RISC-V` `C` |
-| **5-Stage Pipelined MIPS** | Designed and implemented a 5-stage pipelined MIPS processor with hazard detection and forwarding units. | `Verilog` `ModelSim` |
+<!-- | **5-Stage Pipelined MIPS** | Designed and implemented a 5-stage pipelined MIPS processor with hazard detection and forwarding units. | `Verilog` `ModelSim` | -->
 
-<!-- اگر دیاگرام یا اسکرین‌شات تمیزی از دیباگ یا معماری پردازنده داری، کامنت خط پایین رو بردار و لینک عکست رو بذار جای src -->
-<!-- <p align="center"> <img src="لینک-تصویر-فنی-تو.png" width="800"> </p> -->
+<!-- Photo !!! -->
+
 
 <br>
 
