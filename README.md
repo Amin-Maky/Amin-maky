@@ -33,16 +33,26 @@
 
 ### Featured Projects & Research
 
+<!--
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[CVA6-Lab](https://github.com/Amin-Maky/CVA6-Lab)** | Benchmarking workloads on bare-metal RISC-V via Verilator. Analyzing the architectural trade-offs of 32/64-bit and dual-issue execution on structural hazards. | `SystemVerilog` `Verilator` `RISC-V` `C` |
+-->
+
 <!-- | **5-Stage Pipelined MIPS** | Designed and implemented a 5-stage pipelined MIPS processor with hazard detection and forwarding units. | `Verilog` `ModelSim` | -->
 
 <!-- Photo !!! -->
 
-
+       
+<p align="left">
+    <a href="https://github.com/Amin-Maky/CVA6-Lab">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="CVA6-Lab"></a>
+  
+  <!-- New Prjs here: -->
+  
+</p>
+    
 <br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/amin-maky/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
