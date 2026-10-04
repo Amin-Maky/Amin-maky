@@ -1,5 +1,5 @@
 <h1 align="center">Amin Maki</h1>
-<h3 align="center">Computer Architecture Enthusiast | Digital Design Engineer</h3>
+<h3 align="center">Digital Design Engineer | Computer Architecture</h3>
 
 <p align="center">
   BSc in Electrical Engineering with a strong focus on <b>Microarchitecture</b>, <b>RTL Design</b>, and the <b>RISC-V</b> ecosystem. Currently exploring structural hazards and performance optimization in the CVA6 core, aiming for a Master's degree in Computer Engineering.
