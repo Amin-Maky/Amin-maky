@@ -70,8 +70,9 @@
     
 <!-- ---------------------- MOST USED LANGUAGES ---------------------- -->
   <a href="https://github.com/Amin-Maky">
-  <img alt="Amin-Maky's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&hide_border=true"/></a>
-  <br/>
+  <img alt="Amin-Maky's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=Filebench%20WML"/>
+  </a>
+
 </p>
     
 <br>
