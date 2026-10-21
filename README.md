@@ -44,7 +44,7 @@
 <!-- Photo !!! -->
 
        
-<p align="left">
+<p align="center">
     <a href="https://github.com/Amin-Maky/CVA6-Lab">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="CVA6-Lab"></a>
     <a href="https://github.com/Amin-Maky/ga-hardware-accelerator">
@@ -53,6 +53,8 @@
   <!-- New Prjs here: -->
   
 </p>
+
+<h3 align="left">Profile Stats</h3>
 
 
 <!-- ---------------------- RESUME ---------------------- -->
