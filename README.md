@@ -83,3 +83,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+<p align="left">
+  <img width="10%" src="https://komarev.com/ghpvc/?username=Amin-Maky&label=Profile%20Views&color=21262d&style=for-the-badge" alt="Profile Views" />
+</p>
+
