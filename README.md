@@ -43,16 +43,18 @@
 
 <!-- Photo !!! -->
 
-       
 <p align="center">
-    <a href="https://github.com/Amin-Maky/CVA6-Lab">
-    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="CVA6-Lab"></a>
-    <a href="https://github.com/Amin-Maky/ga-hardware-accelerator">
-    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=ga-hardware-accelerator&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="ga-hardware-accelerator"></a>
-  
+  <a href="https://github.com/Amin-Maky/CVA6-Lab">
+    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false&description_lines_count=3" alt="CVA6-Lab" />
+  </a>
+  <a href="https://github.com/Amin-Maky/ga-hardware-accelerator">
+    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=ga-hardware-accelerator&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false&description_lines_count=3" alt="ga-hardware-accelerator" />
+  </a>
+
   <!-- New Prjs here: -->
-  
+
 </p>
+
 
 <h3 align="left">Profile Stats</h3>
 
@@ -63,18 +65,15 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-Maky&theme=github-dark-blue&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="Amin-Maky" />
 </p>
 
-<!-- ---------------------- STATS ---------------------- -->
-</p> 
-  <p align="center">
+<!-- ---------------------- STATS & MOST USED LANGUAGES ---------------------- -->
 
+<p align="center">
   <a href="https://github.com/Amin-Maky">
-  <img alt="Amin-Maky's Github Stats" src="https://github-readme-stats-xi-seven-48.vercel.app/api/?username=Amin-Maky&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/></a>
-    
-<!-- ---------------------- MOST USED LANGUAGES ---------------------- -->
-  <a href="https://github.com/Amin-Maky">
-  <img alt="Amin-Maky's Top Languages" src="https://github-readme-stats-xi-seven-48.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=Filebench%20WML"/>
+    <img height="165" alt="Amin-Maky's Github Stats" src="https://github-readme-stats-xi-seven-48.vercel.app/api/?username=Amin-Maky&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
   </a>
-
+  <a href="https://github.com/Amin-Maky">
+    <img height="165" alt="Amin-Maky's Top Languages" src="https://github-readme-stats-xi-seven-48.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=Filebench%20WML" />
+  </a>
 </p>
     
 <br>
