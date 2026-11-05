@@ -46,9 +46,9 @@
        
 <p align="center">
     <a href="https://github.com/Amin-Maky/CVA6-Lab">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="CVA6-Lab"></a>
+    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="CVA6-Lab"></a>
     <a href="https://github.com/Amin-Maky/ga-hardware-accelerator">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Amin-Maky&repo=ga-hardware-accelerator&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="ga-hardware-accelerator"></a>
+    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=ga-hardware-accelerator&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false" alt="ga-hardware-accelerator"></a>
   
   <!-- New Prjs here: -->
   
@@ -68,11 +68,11 @@
   <p align="center">
 
   <a href="https://github.com/Amin-Maky">
-  <img alt="Amin-Maky's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Amin-Maky&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/></a>
+  <img alt="Amin-Maky's Github Stats" src="https://github-readme-stats-xi-seven-48.vercel.app/api/?username=Amin-Maky&show_icons=true&count_private=true&theme=github_dark&hide_border=true"/></a>
     
 <!-- ---------------------- MOST USED LANGUAGES ---------------------- -->
   <a href="https://github.com/Amin-Maky">
-  <img alt="Amin-Maky's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=Filebench%20WML"/>
+  <img alt="Amin-Maky's Top Languages" src="https://github-readme-stats-xi-seven-48.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=Filebench%20WML"/>
   </a>
 
 </p>
