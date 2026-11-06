@@ -2,7 +2,8 @@
 <h3 align="center">Digital Design Engineer | Computer Architecture</h3>
 
 <p align="center">
-  BSc in Electrical Engineering with a strong focus on <b>Microarchitecture</b>, <b>RTL Design</b>, and the <b>RISC-V</b> ecosystem. Currently exploring structural hazards and performance optimization in the CVA6 core, aiming for a Master's degree in Electronic Engineering.
+  BSc in Electrical Engineering with a strong focus on <b>Microarchitecture</b>, <b>RTL Design</b>, and the <b>RISC-V</b> ecosystem.<br>
+  Currently exploring structural hazards and performance optimization in the <b>CVA6</b> core.
 </p>
 
 ---
@@ -43,13 +44,10 @@
 
 <!-- Photo !!! -->
 
+
 <p align="center">
-  <a href="https://github.com/Amin-Maky/CVA6-Lab">
-    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false&description_lines_count=3" alt="CVA6-Lab" />
-  </a>
-  <a href="https://github.com/Amin-Maky/ga-hardware-accelerator">
-    <img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=ga-hardware-accelerator&theme=github_dark&border_color=FFFF&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&show_icons=false&description_lines_count=3" alt="ga-hardware-accelerator" />
-  </a>
+  <a href="https://github.com/Amin-Maky/CVA6-Lab"><img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=CVA6-Lab&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=1F6FEB&show_icons=false&description_lines_count=3" alt="CVA6-Lab" /></a>
+  <a href="https://github.com/Amin-Maky/ga-hardware-accelerator"><img width="278" src="https://github-readme-stats-xi-seven-48.vercel.app/api/pin/?username=Amin-Maky&repo=ga-hardware-accelerator&theme=github_dark&bg_color=0D1117&border_color=30363D&title_color=58A6FF&icon_color=1F6FEB&show_icons=false&description_lines_count=3" alt="ga-hardware-accelerator" /></a>
 
   <!-- New Prjs here: -->
 
@@ -67,15 +65,16 @@
 
 <!-- ---------------------- STATS & MOST USED LANGUAGES ---------------------- -->
 
+
 <p align="center">
-  <a href="https://github.com/Amin-Maky">
-    <img height="165" alt="Amin-Maky's Github Stats" src="https://github-readme-stats-xi-seven-48.vercel.app/api/?username=Amin-Maky&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/Amin-Maky">
-    <img height="165" alt="Amin-Maky's Top Languages" src="https://github-readme-stats-xi-seven-48.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&hide_border=true&hide=Filebench%20WML" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amin-Maky&theme=github-dark-blue&bg_color=0D1117&border=30363D&date_format=j%2Fn%5B%2FY%5D" alt="Amin-Maky Streak" />
 </p>
-    
+
+<p align="center">
+  <a href="https://github.com/Amin-Maky"><img height="165" alt="Amin-Maky's Github Stats" src="https://github-readme-stats-xi-seven-48.vercel.app/api/?username=Amin-Maky&show_icons=true&count_private=true&theme=github_dark&bg_color=0D1117&border_color=30363D" /></a>
+  <a href="https://github.com/Amin-Maky"><img height="165" alt="Amin-Maky's Top Languages" src="https://github-readme-stats-xi-seven-48.vercel.app/api/top-langs/?username=Amin-Maky&langs_count=8&layout=compact&theme=github_dark&bg_color=0D1117&border_color=30363D&hide=Filebench%20WML,MATLAB" /></a>
+</p>
+
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/amin-maky/">
@@ -86,4 +85,18 @@
 <p align="left">
   <img width="10%" src="https://komarev.com/ghpvc/?username=Amin-Maky&label=Profile%20Views&color=21262d&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amin-maky/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Amin.Maky@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="Amin_Maki_CV_2026-11-06.pdf">
+    <img src="https://img.shields.io/badge/Resume%20/%20CV-21262D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume / CV" />
+  </a>
+</p>
+
 
