@@ -16,15 +16,15 @@
 
 ### Tech Stack
 
-**Hardware Description & Verification:**
+* **Hardware Description & Verification:**
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-005288?style=flat-square)
 ![Verilog](https://img.shields.io/badge/Verilog-005288?style=flat-square)
 
-**Programming:**
+* **Programming:**
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c&logoColor=white)
 ![Assembly](https://img.shields.io/badge/RISC--V%20%2F%20MIPS%20Assembly-333333?style=flat-square)
 
-**Simulation & EDA Tools:**
+* **Simulation & EDA Tools:**
 ![Verilator](https://img.shields.io/badge/Verilator-4B32C3?style=flat-square)
 ![Spike](https://img.shields.io/badge/Spike-FF1010?style=flat-square)
 ![ModelSim](https://img.shields.io/badge/ModelSim-000000?style=flat-square)
