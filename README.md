@@ -80,17 +80,6 @@
   <a href="https://www.linkedin.com/in/amin-maky/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
-<p align="left">
-  <img width="10%" src="https://komarev.com/ghpvc/?username=Amin-Maky&label=Profile%20Views&color=21262d&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/amin-maky/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:Amin.Maky@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -98,5 +87,10 @@
     <img src="https://img.shields.io/badge/Resume%20/%20CV-21262D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume / CV" />
   </a>
 </p>
+
+<p align="left">
+  <img width="10%" src="https://komarev.com/ghpvc/?username=Amin-Maky&label=Profile%20Views&color=21262d&style=for-the-badge" alt="Profile Views" />
+</p>
+
 
 
